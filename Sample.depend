@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1484045762 source:d:\program\third smester\sample\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1484645566 source:d:\se\programs\extra\bubble userfriendly\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1486021144 source:d:\se\programs\3rd smester\userfriendly working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1515046758 source:e:\crap\study data\se\programs\3rd smester\userfriendly working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1515046758 source:e:\crap\stuff\se programs\old\3rd smester\userfriendly working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1573537018 source:e:\focus\github repo\userfriendly working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
